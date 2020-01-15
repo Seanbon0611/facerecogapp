@@ -1,0 +1,15 @@
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+
+    .sign-out {
+        padding: 0px 20px;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+
+    .sign-out:hover {
+        color: white;
+    }
+}
